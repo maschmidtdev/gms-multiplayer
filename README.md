@@ -3,3 +3,5 @@ Server code for a client-server multiplayer project, written in Javascript with 
 Using mongoose.js for mongoDB communication.
 
 GMS = Gamemaker: Studio. 2D Game Engine / IDE
+
+Currently using TCP, with option for uisng UDP.
